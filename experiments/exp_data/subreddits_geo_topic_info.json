@@ -1,0 +1,1258 @@
+{
+    "AnythingGoesNews": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "apple": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "TECHNOLOGY"
+        ]
+    },
+    "asianamerican": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "atheism": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "RELIGION"
+        ]
+    },
+    "AusFinance": {
+        "geopath": "GLOBAL-OCEANIA-AUS",
+        "topics": [
+            "BUSINESS/ECONOMICS/FINANCE"
+        ]
+    },
+    "AustralianPolitics": {
+        "geopath": "GLOBAL-OCEANIA-AUS",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "aznidentity": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "baseball": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "SPORTS"
+        ]
+    },
+    "boxoffice": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "ENTERTAINMENT",
+            "BUSINESS/ECONOMICS/FINANCE"
+        ]
+    },
+    "brexit": {
+        "geopath": "GLOBAL-EUROPE-GBR",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "business": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "BUSINESS/ECONOMICS/FINANCE"
+        ]
+    },
+    "California_Politics": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "CanadaPolitics": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "CFB": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "SPORTS"
+        ]
+    },
+    "China_Flu": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "Christianity": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "RELIGION"
+        ]
+    },
+    "collapse": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "Conservative": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "conservatives": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "conspiracy": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "Coronavirus": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "CoronavirusFOS": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "CoronavirusRecession": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "COVID",
+            "BUSINESS/ECONOMICS/FINANCE"
+        ]
+    },
+    "COVID19": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "CovIdiots": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "DebateVaccines": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "HEALTH"
+        ]
+    },
+    "DeFranco": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "ENTERTAINMENT"
+        ]
+    },
+    "democrats": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "Economics": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "BUSINESS/ECONOMICS/FINANCE"
+        ]
+    },
+    "economy": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "BUSINESS/ECONOMICS/FINANCE"
+        ]
+    },
+    "entertainment": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "ENTERTAINMENT"
+        ]
+    },
+    "environment": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS",
+            "SCIENCE",
+            "HEALTH"
+        ]
+    },
+    "esist": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "EverythingScience": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SCIENCE"
+        ]
+    },
+    "Foodforthought": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "FoxFiction": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "Futurology": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "TECHNOLOGY",
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "GoldandBlack": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "Health": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "HEALTH"
+        ]
+    },
+    "hockey": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SPORTS"
+        ]
+    },
+    "Impeach_Trump": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "inthenews": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "JoeBiden": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "JoeRogan": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "ENTERTAINMENT",
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "kotakuinaction2": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "ENTERTAINMENT",
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "LabourUK": {
+        "geopath": "GLOBAL-EUROPE-GBR",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "LeopardsAteMyFace": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "Liberal": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "Libertarian": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "LockdownSkepticism": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "COVID",
+            "POLITICS"
+        ]
+    },
+    "medicine": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "HEALTH"
+        ]
+    },
+    "MLS": {
+        "geopath": "GLOBAL-NORTH AMERICA",
+        "topics": [
+            "SPORTS"
+        ]
+    },
+    "moderatepolitics": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "Moronavirus": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "movies": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "ENTERTAINMENT"
+        ]
+    },
+    "nba": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SPORTS"
+        ]
+    },
+    "neoliberal": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "news": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "NewsOfTheStupid": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "nfl": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "SPORTS"
+        ]
+    },
+    "nottheonion": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "offbeat": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "onguardforthee": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "politics": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "progressive": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "psychology": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SCIENCE",
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "Republican": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "science": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SCIENCE"
+        ]
+    },
+    "Sino": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "skeptic": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SCIENCE",
+            "TECHNOLOGY",
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "slatestarcodex": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "soccer": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SPORTS"
+        ]
+    },
+    "sports": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SPORTS"
+        ]
+    },
+    "stupidpol": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "Syracuse_comments": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "technology": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "TECHNOLOGY"
+        ]
+    },
+    "television": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "ENTERTAINMENT",
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "The_Mueller": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "tories": {
+        "geopath": "GLOBAL-EUROPE-GBR",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "ukpolitics": {
+        "geopath": "GLOBAL-EUROPE-GBR",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "UpliftingNews": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "USNEWS": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "uspolitics": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "WayOfTheBern": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA",
+        "topics": [
+            "POLITICS"
+        ]
+    },
+    "weedstocks": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS",
+            "HEALTH",
+            "BUSINESS/ECONOMICS/FINANCE"
+        ]
+    },
+    "worldevents": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "worldnews": {
+        "geopath": "GLOBAL",
+        "topics": [
+            "SOCIAL_DISCUSSION_AND_THOUGHTS"
+        ]
+    },
+    "Alabama": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-AL",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "alberta": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-AB",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Arkansas": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-AR",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Austin": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-TX-Austin",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "australia": {
+        "geopath": "GLOBAL-OCEANIA-AUS",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "bayarea": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-CA-bayarea",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "boston": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-MA-boston",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "boulder": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-CO-boulder",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Brampton": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-ON-Brampton",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "brisbane": {
+        "geopath": "GLOBAL-OCEANIA-AUS-QLD-brisbane",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "britishcolumbia": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-BC",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Calgary": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-AB-Calgary",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "California": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-CA",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "CoronavirusCA": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-CA",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "canada": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "CanadaCoronavirus": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "CoronavirusCanada": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "chicago": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-IL-chicago",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "China": {
+        "geopath": "GLOBAL-ASIA-CHN",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Columbus": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-OH-Columbus",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Connecticut": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-CT",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Coronavirus_Ireland": {
+        "geopath": "GLOBAL-EUROPE-IRL",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "ireland": {
+        "geopath": "GLOBAL-EUROPE-IRL",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "CoronavirusAZ": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-AZ",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "CoronavirusColorado": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-CO",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "CoronavirusGA": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-GA",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "Georgia": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-GA",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "CoronavirusIllinois": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-IL",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "illinois": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-IL",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Coronaviruslouisiana": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-LA",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "CoronavirusMa": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-MA",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "massachusetts": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-MA",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "CoronavirusMichigan": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-MI",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "Michigan": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-MI",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "CoronavirusMN": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-MN",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "minnesota": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-MN",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "CoronavirusNewYork": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-NY",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "CoronavirusOC": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-CA-CoronavirusOC",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "CoronavirusOklahoma": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-OK",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "oklahoma": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-OK",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "CoronaVirusPA": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-PA",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "Pennsylvania": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-PA",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "CoronavirusTN": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-TN",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "Tennessee": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-TN",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "CoronaVirusTX": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-TX",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "texas": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-TX",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "CoronavirusUK": {
+        "geopath": "GLOBAL-EUROPE-GBR",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "CoronavirusWA": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-WA",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "CoronavirusWI": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-WI",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "wisconsin": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-WI",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Covid19_Ohio": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-OH",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "Ohio": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-OH",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Dallas": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-TX-Dallas",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Denver": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-CO-Denver",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Detroit": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-MI-Detroit",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Edmonton": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-AB-Edmonton",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "europe": {
+        "geopath": "GLOBAL-EUROPE",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "FloridaCoronavirus": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-FL",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "halifax": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-NS-halifax",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Hamilton": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-ON-Hamilton",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "india": {
+        "geopath": "GLOBAL-ASIA-IND",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "IndiaSpeaks": {
+        "geopath": "GLOBAL-ASIA-IND",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "unitedstatesofindia": {
+        "geopath": "GLOBAL-ASIA-IND",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Indiana": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-IN",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "indianapolis": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-IN-indianapolis",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Iowa": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-IA",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "japan": {
+        "geopath": "GLOBAL-ASIA-JPN",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "korea": {
+        "geopath": "GLOBAL-ASIA-KOR",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "london": {
+        "geopath": "GLOBAL-EUROPE-GBR-GB-ENG-london",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "LosAngeles": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-CA-LosAngeles",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "madisonwi": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-WI-madisonwi",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Maine": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-ME",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "maryland": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-MD",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Minneapolis": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-MN-Minneapolis",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "missouri": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-MO",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "nashville": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-TN-nashville",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "newjersey": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-NJ",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "NewOrleans": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-LA-NewOrleans",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "newyorkcity": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-NY-newyorkcity",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "newzealand": {
+        "geopath": "GLOBAL-OCEANIA-NZL",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "NorthCarolina": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-NC",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "northernireland": {
+        "geopath": "GLOBAL-EUROPE-GBR-GB-NIR",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "nyc": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-NY-nyc",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "nycCoronavirus": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-NY-nycCoronavirus",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "ontario": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-ON",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "orangecounty": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-CA-orangecounty",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "oregon": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-OR",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "ottawa": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-ON-ottawa",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "perth": {
+        "geopath": "GLOBAL-OCEANIA-AUS-WA-perth",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "philadelphia": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-PA-philadelphia",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Philippines": {
+        "geopath": "GLOBAL-ASIA-PHL",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "phoenix": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-AZ-phoenix",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "pittsburgh": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-PA-pittsburgh",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Portland": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-OR-Portland",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "raleigh": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-NC-raleigh",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "rva": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-VA-rva",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Sacramento": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-CA-Sacramento",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "SaltLakeCity": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-UT-SaltLakeCity",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "sandiego": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-CA-sandiego",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "sanfrancisco": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-CA-sanfrancisco",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "SanJose": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-CA-SanJose",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "saskatchewan": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-SK",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "saskatoon": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-SK-saskatoon",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Scotland": {
+        "geopath": "GLOBAL-EUROPE-GBR-GB-SCT",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Seattle": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-WA-Seattle",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "SeattleWA": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-WA-SeattleWA",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "singapore": {
+        "geopath": "GLOBAL-ASIA-SGP",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "southcarolina": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-SC",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "StLouis": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-MO-StLouis",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "sydney": {
+        "geopath": "GLOBAL-OCEANIA-AUS-NSW-sydney",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "toronto": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-ON-toronto",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "unitedkingdom": {
+        "geopath": "GLOBAL-EUROPE-GBR",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Utah": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-UT",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "vancouver": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-BC-vancouver",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "VictoriaBC": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-BC-VictoriaBC",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Virginia": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA-VA",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "windsorontario": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-ON-windsorontario",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "Winnipeg": {
+        "geopath": "GLOBAL-NORTH AMERICA-CAN-MB-Winnipeg",
+        "topics": [
+            "Comprehensive"
+        ]
+    },
+    "CoronavirusUS": {
+        "geopath": "GLOBAL-NORTH AMERICA-USA+CAN",
+        "topics": [
+            "COVID"
+        ]
+    },
+    "CoronavirusDownunder": {
+        "geopath": "GLOBAL-OCEANIA-AUS+NZL",
+        "topics": [
+            "COVID"
+        ]
+    }
+}

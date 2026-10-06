@@ -1,0 +1,718 @@
+{
+    "NEGATIVE": {
+        "1_anger_and_hostility": {
+            "overt_rage": [
+                "angry",
+                "outraged",
+                "infuriated",
+                "furious"
+            ],
+            "irritation_and_impatience": [
+                "frustrated",
+                "irritated",
+                "exasperated",
+                "impatient",
+                "annoyed"
+            ],
+            "resentful_indignation": [
+                "resentful",
+                "indignant",
+                "bitter"
+            ],
+            "militant_aggression": [
+                "combative",
+                "confrontational",
+                "violent",
+                "hostile",
+                "militant",
+                "aggressive"
+            ],
+            "acrimonious_attack": [
+                "acerbic",
+                "scathing",
+                "vitriolic",
+                "caustic"
+            ],
+            "harsh_bluntness": [
+                "curt",
+                "abrasive",
+                "strident"
+            ],
+            "spiteful_retaliation": [
+                "vindictive",
+                "vengeful",
+                "spiteful"
+            ],
+            "provocative_incitement": [
+                "inflammatory",
+                "incendiary",
+                "provocative"
+            ],
+            "bias_and_hatred": [
+                "hateful",
+                "racist",
+                "xenophobic"
+            ],
+            "vulgarity": [
+                "profane"
+            ]
+        },
+        "2_contempt_mockery_and_wit": {
+            "arrogant_patronage": [
+                "patronizing",
+                "condescending"
+            ],
+            "disgust_and_scorn": [
+                "contemptuous",
+                "disdainful",
+                "disgusted",
+                "scornful"
+            ],
+            "derisive_ridicule": [
+                "mocking",
+                "derisive",
+                "derogatory"
+            ],
+            "sharp_sarcasm": [
+                "snarky",
+                "sarcastic"
+            ],
+            "sneaky_insults": [
+                "insulting",
+                "snide",
+                "insinuating"
+            ],
+            "taunting_and_triumph": [
+                "gloating",
+                "taunting"
+            ],
+            "playful_ribbing": [
+                "cheeky",
+                "teasing"
+            ],
+            "irreverent_levity": [
+                "flippant",
+                "facetious"
+            ],
+            "dark_and_critical_humor": [
+                "satirical",
+                "sardonic"
+            ],
+            "dry_and_paradoxical_wit": [
+                "ironic",
+                "wry"
+            ],
+            "self_targeted_wit": [
+                "self-deprecating"
+            ],
+            "active_dismissal": [
+                "dismissive"
+            ]
+        },
+        "3_judgment_and_disapproval": {
+            "accusation_and_condemnation": [
+                "accusatory",
+                "condemnatory",
+                "punitive"
+            ],
+            "reproof_and_correction": [
+                "corrective",
+                "admonitory",
+                "admonishing",
+                "scolding"
+            ],
+            "critical_evaluation": [
+                "judgmental",
+                "disapproving",
+                "critical"
+            ],
+            "moralizing_instruction": [
+                "didactic"
+            ],
+            "argumentative_militancy": [
+                "argumentative",
+                "contrarian",
+                "litigious",
+                "polemical"
+            ],
+            "imperative_pressure_and_ranting": [
+                "demanding",
+                "bombastic"
+            ]
+        },
+        "4_doubt_confusion_and_shock": {
+            "skepticism_and_suspicion": [
+                "incredulous",
+                "suspicious",
+                "questioning",
+                "skeptical"
+            ],
+            "disorientation_and_bafflement": [
+                "bewildered",
+                "confused",
+                "bemused",
+                "baffled"
+            ],
+            "shock_and_stunned_silence": [
+                "stunned",
+                "appalled",
+                "shocked"
+            ],
+            "paranoia_and_secrecy": [
+                "paranoid",
+                "conspiratorial"
+            ]
+        },
+        "5_fear_anxiety_and_dread": {
+            "acute_panic": [
+                "panicked",
+                "terrified",
+                "alarmed"
+            ],
+            "agitated_anxiety": [
+                "anxious",
+                "stressed",
+                "apprehensive",
+                "worried",
+                "uneasy",
+                "agitated",
+                "distressed"
+            ],
+            "visceral_fear": [
+                "horrified",
+                "fearful"
+            ],
+            "threats_and_premonitions": [
+                "alarming",
+                "alarmist",
+                "apocalyptic",
+                "ominous",
+                "wary",
+                "foreboding",
+                "cautionary",
+                "threatening"
+            ]
+        },
+        "6_sorrow_grief_and_regret": {
+            "deep_anguish_and_grief": [
+                "sorrowful",
+                "mournful",
+                "grieving",
+                "heartbroken",
+                "anguished",
+                "devastated"
+            ],
+            "sadness_and_disappointment": [
+                "dismayed",
+                "dissatisfied",
+                "sad",
+                "disappointed"
+            ],
+            "guilt_and_remorse": [
+                "rueful",
+                "contrite",
+                "remorseful",
+                "ashamed",
+                "regretful"
+            ],
+            "nostalgic_sadness": [
+                "wistful",
+                "lamenting"
+            ]
+        },
+        "7_despair_exhaustion_and_cynicism": {
+            "loss_of_morale": [
+                "discouraged",
+                "disheartened",
+                "demoralized"
+            ],
+            "profound_despair": [
+                "desperate",
+                "dejected",
+                "despairing",
+                "despondent"
+            ],
+            "resignation_and_helplessness": [
+                "resigned",
+                "helpless",
+                "fatalistic"
+            ],
+            "harsh_gloom": [
+                "bleak",
+                "grim"
+            ],
+            "burnout_and_fatigue": [
+                "weary",
+                "exhausted"
+            ],
+            "cynical_disillusionment": [
+                "cynical",
+                "disillusioned",
+                "jaded",
+                "pessimistic",
+                "hardened"
+            ],
+            "unbothered_boredom": [
+                "bored"
+            ]
+        },
+        "8_detachment_restraint_and_defiance": {
+            "coldness_and_callousness": [
+                "callous",
+                "unsympathetic"
+            ],
+            "reluctant_concession": [
+                "begrudging",
+                "reluctant"
+            ],
+            "self_protection_and_shame": [
+                "embarrassed",
+                "defensive",
+                "sheepish"
+            ],
+            "defiance_and_rebellion": [
+                "rebellious",
+                "defiant"
+            ],
+            "pleading": [
+                "imploring"
+            ],
+            "gravity_and_silence": [
+                "solemn",
+                "serious"
+            ]
+        }
+    },
+    "POSITIVE": {
+        "1_joy_and_high_energy": {
+            "pure_happiness": [
+                "glad",
+                "pleased",
+                "happy",
+                "cheerful",
+                "gleeful",
+                "delighted"
+            ],
+            "intense_euphoria": [
+                "exuberant",
+                "euphoric",
+                "ecstatic"
+            ],
+            "vibrant_excitement": [
+                "eager",
+                "enthusiastic",
+                "carefree",
+                "excited",
+                "lighthearted"
+            ]
+        },
+        "2_affection_warmth_and_care": {
+            "tender_devotion": [
+                "affectionate",
+                "adoring"
+            ],
+            "empathy_and_compassion": [
+                "altruistic",
+                "thoughtful",
+                "sympathetic",
+                "compassionate",
+                "considerate",
+                "empathetic"
+            ],
+            "social_warmth_and_openness": [
+                "welcoming",
+                "friendly"
+            ],
+            "helpfulness_and_tolerance": [
+                "helpful",
+                "protective",
+                "tolerant",
+                "permissive",
+                "supportive"
+            ]
+        },
+        "3_praise_admiration_and_awe": {
+            "deep_reverence_and_awe": [
+                "amazed",
+                "admiring",
+                "awed",
+                "impressed",
+                "awestruck"
+            ],
+            "verbal_praise_and_tribute": [
+                "laudatory",
+                "approving",
+                "celebratory",
+                "respectful",
+                "complimentary",
+                "congratulatory",
+                "deferential"
+            ],
+            "gratitude_and_value": [
+                "appreciative"
+            ]
+        },
+        "4_optimism_hope_and_inspiration": {
+            "forward_looking_confidence": [
+                "bullish",
+                "optimistic",
+                "hopeful",
+                "positive"
+            ],
+            "motivation_and_drive": [
+                "encouraging",
+                "promotional",
+                "proactive",
+                "exhortative"
+            ]
+        },
+        "5_confidence_conviction_and_triumph": {
+            "strong_conviction": [
+                "emphatic",
+                "confident",
+                "assertive"
+            ],
+            "passion_and_fervor": [
+                "patriotic",
+                "impassioned",
+                "effusive",
+                "passionate"
+            ],
+            "pride_and_vindication": [
+                "triumphant",
+                "triumphalist",
+                "vindicated",
+                "proud",
+                "boastful"
+            ]
+        },
+        "6_curiosity_and_intellectual_drive": {
+            "active_inquiry": [
+                "inquisitive",
+                "curious",
+                "intrigued"
+            ]
+        },
+        "7_reassurance_harmony_and_satisfaction": {
+            "agreement_and_peace": [
+                "agreeable",
+                "conciliatory",
+                "affirmative",
+                "constructive"
+            ],
+            "making_amends": [
+                "apologetic"
+            ],
+            "relief_and_trust": [
+                "reassuring",
+                "reassured",
+                "grateful",
+                "receptive",
+                "understanding",
+                "relieved"
+            ]
+        },
+        "8_humor_playfulness_and_sincerity": {
+            "amusement_and_wit": [
+                "humorous",
+                "playful",
+                "amused",
+                "witty"
+            ],
+            "heartfelt_earnestness": [
+                "earnest"
+            ]
+        }
+    },
+    "NEUTRAL": {
+        "1_objective_and_analytical": {
+            "pure_fact_and_logic": [
+                "factual",
+                "objective",
+                "logical"
+            ],
+            "scientific_and_clinical": [
+                "clinical",
+                "scientific",
+                "technical"
+            ],
+            "scholarly_analysis": [
+                "analytical",
+                "academic"
+            ],
+            "observational_neutrality": [
+                "neutral",
+                "matter-of-fact",
+                "observational"
+            ],
+            "journalistic_reporting": [
+                "reportorial",
+                "journalistic"
+            ],
+            "informational_explanation": [
+                "informative",
+                "explanatory"
+            ]
+        },
+        "2_instructive_and_authoritative": {
+            "educational_instruction": [
+                "instructive"
+            ],
+            "advisory_recommendation": [
+                "advisory",
+                "suggestive"
+            ],
+            "normative_direction": [
+                "prescriptive"
+            ],
+            "command_authority": [
+                "stern",
+                "authoritarian",
+                "directive"
+            ],
+            "formal_protocol": [
+                "official",
+                "formal",
+                "legalistic"
+            ],
+            "scholarly_rigidity": [
+                "pedantic"
+            ]
+        },
+        "3_brevity_and_directness": {
+            "concise_brevity": [
+                "concise",
+                "succinct"
+            ],
+            "plain_directness": [
+                "straightforward"
+            ],
+            "terse_economy": [
+                "terse",
+                "laconic"
+            ],
+            "open_frankness": [
+                "candid"
+            ]
+        },
+        "4_prudence_caution_and_strategy": {
+            "practical_utility": [
+                "utilitarian",
+                "practical",
+                "pragmatic",
+                "realistic"
+            ],
+            "cautious_restraint": [
+                "restrained",
+                "prudent",
+                "measured",
+                "cautious"
+            ],
+            "contingent_framing": [
+                "conditional"
+            ],
+            "calculated_planning": [
+                "strategic"
+            ],
+            "tentative_hesitation": [
+                "uncertain",
+                "tentative"
+            ],
+            "alert_watchfulness": [
+                "vigilant"
+            ]
+        },
+        "5_conviction_resolve_and_urgency": {
+            "firm_resolve": [
+                "certain",
+                "determined"
+            ],
+            "pressing_importance": [
+                "urgent"
+            ],
+            "serious_gravity": [
+                "somber"
+            ],
+            "reality_inducing_gravity": [
+                "sobering"
+            ]
+        },
+        "6_detachment_stoicism_and_passivity": {
+            "flat_unconcern": [
+                "apathetic",
+                "indifferent"
+            ],
+            "half_heartedness": [
+                "lukewarm"
+            ],
+            "unbothered_composure": [
+                "unsurprised",
+                "nonchalant"
+            ],
+            "enduring_composure": [
+                "patient"
+            ],
+            "emotional_suppression": [
+                "stoic"
+            ],
+            "impersonal_automation": [
+                "robotic",
+                "mechanical"
+            ]
+        },
+        "7_style_manner_and_mindset": {
+            "conversational_informality": [
+                "casual",
+                "informal",
+                "colloquial"
+            ],
+            "courteous_etiquette": [
+                "polite"
+            ],
+            "playful_evasiveness": [
+                "coy"
+            ],
+            "obscure_enigma": [
+                "cryptic"
+            ],
+            "artistic_expression": [
+                "poetic"
+            ],
+            "pensive_introspection": [
+                "reflective"
+            ],
+            "active_querying": [
+                "inquiring"
+            ],
+            "perplexed_confusion": [
+                "puzzled"
+            ]
+        },
+        "8_composure_concern_and_foresight": {
+            "attentive_concern": [
+                "concerned"
+            ],
+            "soothing_calm": [
+                "calming"
+            ],
+            "future_projection": [
+                "prophetic"
+            ]
+        }
+    },
+    "MIXED": {
+        "1_firmness_authority_and_conviction": {
+            "unyielding_resolve": [
+                "adamant",
+                "unapologetic",
+                "resolute"
+            ],
+            "commanding_authority": [
+                "authoritative",
+                "strict",
+                "commanding",
+                "imperative"
+            ],
+            "assertive_insistence": [
+                "insistent",
+                "forceful",
+                "dogmatic"
+            ]
+        },
+        "2_uncertainty_conflict_and_hesitation": {
+            "internal_contradiction": [
+                "conflicted",
+                "ambivalent"
+            ],
+            "cautious_reserve": [
+                "guarded",
+                "hesitant"
+            ],
+            "hypothetical_conjecture": [
+                "speculative"
+            ],
+            "perplexed_bewildered": [
+                "perplexed"
+            ]
+        },
+        "3_directness_candor_and_tact": {
+            "unfiltered_candor": [
+                "direct",
+                "blunt",
+                "frank"
+            ],
+            "strategic_tact": [
+                "diplomatic"
+            ],
+            "explanatory_precision": [
+                "clarifying",
+                "nuanced"
+            ]
+        },
+        "4_persuasion_rhetoric_and_vision": {
+            "inspirational_drive": [
+                "persuasive",
+                "visionary",
+                "motivational"
+            ],
+            "ideological_zeal": [
+                "radical"
+            ],
+            "stylistic_argumentation": [
+                "rhetorical"
+            ]
+        },
+        "5_surprise_emotion_and_drama": {
+            "sudden_wonder": [
+                "astonished",
+                "surprised"
+            ],
+            "heightened_theater": [
+                "melodramatic",
+                "dramatic"
+            ]
+        },
+        "6_reflection_nostalgia_and_spirituality": {
+            "looking_back": [
+                "anecdotal",
+                "nostalgic",
+                "retrospective",
+                "bittersweet"
+            ],
+            "looking_forward": [
+                "anticipatory"
+            ],
+            "transcendent_or_traditional": [
+                "superstitious",
+                "mystical"
+            ]
+        },
+        "7_irreverence_vulgarity_and_playfulness": {
+            "crude_or_coarse": [
+                "crass",
+                "vulgar"
+            ],
+            "childish_or_playful": [
+                "immature",
+                "punny",
+                "joking"
+            ],
+            "dark_or_self_satisfied": [
+                "smug",
+                "morbid"
+            ]
+        },
+        "8_bias_desire_and_pleading": {
+            "sectional_bias": [
+                "partisan"
+            ],
+            "possessive_desire": [
+                "jealous",
+                "envious"
+            ],
+            "earnest_entreaty": [
+                "pleading"
+            ]
+        }
+    }
+}
